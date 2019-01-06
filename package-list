@@ -9,3 +9,11 @@ io.codeleaf.config.spec.impl
 io.codeleaf.config.spec.spi
 io.codeleaf.config.spi
 io.codeleaf.config.util
+io.codeleaf.logging
+io.codeleaf.logging.bindings.console
+io.codeleaf.logging.core
+io.codeleaf.logging.spi
+io.codeleaf.logging.writers.console
+io.codeleaf.logging.writers.elastic
+io.codeleaf.logging.writers.elastic.config
+io.codeleaf.logging.writers.elastic.utils
