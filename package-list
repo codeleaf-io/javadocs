@@ -19,6 +19,10 @@ io.codeleaf.config.spec.impl
 io.codeleaf.config.spec.spi
 io.codeleaf.config.spi
 io.codeleaf.config.util
+io.codeleaf.dal
+io.codeleaf.dal.tasks
+io.codeleaf.dal.tasks.impl
+io.codeleaf.dal.types
 io.codeleaf.example
 io.codeleaf.logging
 io.codeleaf.logging.bindings.console
